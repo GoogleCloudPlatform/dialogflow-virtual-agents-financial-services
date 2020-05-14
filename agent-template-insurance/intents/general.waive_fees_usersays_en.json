@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1c0aae2c-b73b-4781-9386-d13b8c5b5622",
+    "data": [
+      {
+        "text": "How do I waive my fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b32cc6e6-5571-401a-bea3-8a316ad0bc3c",
+    "data": [
+      {
+        "text": "Can you waive my fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ddd1ecd-1f7a-417e-8abc-393b3496a7ce",
+    "data": [
+      {
+        "text": "Are you waiving any fees right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

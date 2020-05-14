@@ -1,0 +1,31 @@
+{
+  "id": "bfe6e6a5-dbf8-4ef2-a619-a18c577d10b4",
+  "name": "auto.lower_rate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Given the current shelter-in-place orders from a variety of states, then fewer people are driving, which means that there are fewer accidents. Given this decline, personal auto insurance customers will receive 20% back, based on their monthly premiums starting in April through the time period when the shelter-in-place orders are lifted. We will automatically deposit into your bank account or credit the card on file. Make sure your payment information is up-to-date."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

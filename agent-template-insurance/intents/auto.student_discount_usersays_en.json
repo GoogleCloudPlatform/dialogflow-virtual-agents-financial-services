@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1c7c6aeb-cfa0-4af9-a5bc-91165b41ebdd",
+    "data": [
+      {
+        "text": "What happens to my student discount if schools are closed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ace1ff9-8b48-4781-93a4-2a56aa5913c6",
+    "data": [
+      {
+        "text": "Will I lose my student discount if schools are closed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

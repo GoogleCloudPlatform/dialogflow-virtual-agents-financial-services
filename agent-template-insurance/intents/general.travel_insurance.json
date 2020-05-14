@@ -1,0 +1,31 @@
+{
+  "id": "ebc50eeb-c085-4488-8b58-818edea172f8",
+  "name": "general.travel_insurance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If you are an employee with travel assistance through your employer, then please check with your employer on cancelling business travel and refund policies.  If you are traveling for pleasure, then please review our travel insurance policy guidelines for what types of events are covered."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

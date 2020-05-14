@@ -1,0 +1,50 @@
+[
+  {
+    "id": "75a38243-6b7f-454b-94ca-99f8a98dac50",
+    "data": [
+      {
+        "text": "I need to file a claim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ace732d1-11f1-4594-b5bf-38c2fe69fade",
+    "data": [
+      {
+        "text": "How do I file a claim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "682c4116-46ed-4d26-ab54-a2b1f334f23b",
+    "data": [
+      {
+        "text": "Can I file a claim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b48d882f-a7e6-4713-a796-ad423a09c961",
+    "data": [
+      {
+        "text": "Am I able to file a claim during the COVID-19 outbreak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

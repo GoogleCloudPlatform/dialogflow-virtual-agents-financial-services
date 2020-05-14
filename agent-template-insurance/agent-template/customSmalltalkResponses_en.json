@@ -1,0 +1,35 @@
+[
+  {
+    "action": "smalltalk.appraisal.welcome",
+    "customAnswers": [
+      "Thanks!",
+      "Thank you!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You\u0027re welcome!",
+      "You\u0027re very welcome!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.bad",
+    "customAnswers": [
+      "I\u0027m sorry."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.good",
+    "customAnswers": [
+      "Have a nice day!"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "Thank you!",
+      "Thanks."
+    ]
+  }
+]

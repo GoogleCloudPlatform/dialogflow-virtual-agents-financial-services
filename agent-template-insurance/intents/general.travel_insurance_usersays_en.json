@@ -1,0 +1,50 @@
+[
+  {
+    "id": "68d94b63-b928-40aa-bfc2-5acd5d1382a6",
+    "data": [
+      {
+        "text": "My employer offers travel insurance/assistance coverage, how do I file a claim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e770111e-cedf-476e-b95b-db32309e3e0a",
+    "data": [
+      {
+        "text": "I have travel insurance, can you help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df3e9e77-a964-4fb2-8717-3f76e2c045b8",
+    "data": [
+      {
+        "text": "I have travel insurance through my employer, can you help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f467e69-f457-4585-a963-c0e9b7602e93",
+    "data": [
+      {
+        "text": "What resources are available for employees with Travel Insurance/Assistance coverage?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
