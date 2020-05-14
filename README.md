@@ -55,7 +55,7 @@ import the agent template.
 2. Click **Fulfillment** in the left sidebar.
 
 3. Toggle the switch to enable the Inline Editor.
-![Inline Editor Screenshot](./resources/inline-editor.png).
+![Inline Editor Screenshot](./resources/inline-editor.png)
 
 4. Follow the instruction on the screen to enable fulfillment via Cloud 
 Functions and enable billing for the Cloud project.
@@ -66,16 +66,17 @@ Functions and enable billing for the Cloud project.
 6. Select the fulfillment and click Edit button.
 ![Cloud Function Edit Screenshot](./resources/cloud-function-edit.png)
 
-7. Under the **Source code** section, select "ZIP upload" and upload the 
-fulfillment zip file downloaded at step 1. Then select a Stage bucket (you may need to create one if it hasn't been created yet).
+7. Under the **Source code** section, select **ZIP upload** and upload the 
+fulfillment zip file downloaded at step 1. Then select a **Staging bucket** (you may need to create one if it hasn't been created yet).
 
-8. [Optional] Follow [Quickstart](https://developers.google.com/maps/gmp-get-started#quickstart) to enable 
-[Google Maps Places API and Geocoding API](https://developers.google.com/places/web-service/intro) if you haven't done so. 
+8. [Optional] Follow [Quickstart](https://developers.google.com/maps/gmp-get-started#enable-api-sdk) to enable 
+[Google Maps Places API](https://developers.google.com/places/web-service/intro) and [Geocoding API](https://developers.google.com/maps/documentation/geocoding/start) if you haven't completed this already. 
+
 Go to GCP API & Services->Credentials component to create an API key for calling the **Google Maps Places API** and the **Geocoding API**
-(More detailed instructions are listed at [Get an API Key](https://developers.google.com/places/web-service/get-api-key?hl=en_US).
+(More detailed instructions are listed at [Get an API Key](https://developers.google.com/places/web-service/get-api-key?hl=en_US)).
 ![Create API Key Screenshot](./resources/create-api-key.png)
 
-9.  Set GOOGLE_MAPS_API_KEY environment variable to the API key when deploy Cloud Function. (More details can be found at  [Cloud Function Updating Environment Variable](https://cloud.google.com/functions/docs/env-var#updating_environment_variables))
+9. Set the GOOGLE_MAPS_API_KEY environment variable to the API key when you deploy Cloud Function. (More details can be found at  [Cloud Function Updating Environment Variable](https://cloud.google.com/functions/docs/env-var#updating_environment_variables))
 ![Set Maps API Key Screenshot](./resources/set-maps-api-key.png)
 
 ## Integrate with Rapid Response Banking Virtual Agent Template
@@ -85,13 +86,34 @@ Type your text query input in the Dialogflow Simulator. *Please note that custom
 ![Dialogflow Console Screenshot](./resources/dialogflow-console.png)
 
 ### Integrate with [Dialogflow Messenger](https://cloud.google.com/dialogflow/docs/integrations/dialogflow-messenger)
-Follow the [instructions here](https://github.com/GoogleCloudPlatform/covid19-rapid-response-demo#integrate-with-dialogflow-messenger)
+Follow the [instructions here](https://github.com/GoogleCloudPlatform/covid19-rapid-response-demo#integrate-with-dialogflow-messenger).
 
 ### Integrate with this Chat App and other third-party service providers
-This chat application provides a front end chat interface to a Dialogflow Agent. 
-*Please note this chat app not an official Google product.* 
+There is a chat application that Google developed as a quick start guide that customers can use to build a customized chat interface and it
+demonstrates how to integrate a custom chat UI with Dialogflow agents. Please follow this [documentation](https://github.com/GoogleCloudPlatform/covid19-rapid-response-demo#requirements) 
+to deploy the chat application to your GCP account. 
 
-Please following the [instructions here](https://github.com/GoogleCloudPlatform/covid19-rapid-response-demo#integrate-with-this-chat-app)
+*Please note this chat app is not an official Google product.* 
+
+### Integrate with Twilio to provide the agent over SMS [optional]
+You can deploy a Twilio to Dialogflow "bridge" running serverless Cloud Run to expose your agent over SMS. 
+See the [these instructions](https://github.com/GoogleCloudPlatform/covid19-rapid-response-demo/tree/master/twilio-sms).
+
+### Interaction with Dialogflow API
+You can follow this [quick start](https://cloud.google.com/dialogflow/docs/quick/api) to interact with your agent using the Dialogflow API.
+ 
+### Integrate Your Agent with Text-based Third-Party Conversation Platform
+Dialogflow has integrated with various text-based conversation platforms such 
+as Facebook, Telegram, Line, Slack, etc. You can follow instructions in the
+[Integrations page](https://cloud.google.com/dialogflow/docs/integrations) to integrate 
+with the platform of your choice.
+
+### Integrate with Dialogflow phone Gateway
+Dialogflow provides a one-click integration for a telephone interface to your 
+agent by selecting a phone number hosted by Google. See our 
+[documentation](https://cloud.google.com/dialogflow/docs/integrations/phone-gateway) 
+for detailed instructions. Please note that if you expect your virtual agent to 
+have a high call volume, request a toll-free phone number during the set up.
 
 ### Release Notes
 

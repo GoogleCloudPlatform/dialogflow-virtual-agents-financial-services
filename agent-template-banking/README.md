@@ -40,17 +40,17 @@ to respond to your question correctly.
 2. What are the hours of operation for `BANK_NAME`?
 
 We have provided a fulfillment service that allows the agent to answer the two questions above.  It uses a custom entity named `organization`, which recognizes
-when a user enters a `valid bank name`.  The agent is equiped with about 20 different bank names for which it can list open branches and hours of operation using 
-Google Maps Details and Geocoding APIs.
-However, customers **must** remove all banks listed in the [`organization entity`](agent-template/entities/organization_entries_en.json) and list only their bank name and synonmyms for their bank name.
+when a user enters a `valid bank name`.  The agent is equiped with a small subset of bank names for which it can list open branches and hours of operation using 
+the Google Maps Details and Geocoding APIs.
+However, customers **must** remove all banks listed in the [`organization entity`](./agent-template/entities/organization_entries_en.json) and list only 
+their bank name and synonmyms for their bank name.
 This will restrict the agent to reply with branches and hours of operation for your institution only. 
 
 ## Deploy the Agent
 Follow the steps outlined in the [Agent Deployment section in the parent README](../README.md#agent-deployment).
 
 ## Agent Questions
-Follow the documentation below to deploy your agent and then you ask the following questions.  The agent is
-is able to handle variations in the questions below, so these are sample questions.  Only a subset of bank names were entered into the agent.
+The agent is able to handle variations in the questions below, so these are sample questions.  
 
 ### General Questions
 #### 1. Can I refinance my mortgage?
@@ -208,7 +208,7 @@ The closest Acme bank is 333 Jackson blvd, Chicago IL and the hours of operation
 Monday - Friday 9AM - 4PM, Saturday 9AM - 12PM and closed on Sunday
 ```
 
-#### 2. `BANK_NAME` open branches?
+#### 2. Acme bank open branches?
 
 This is will always return a default response using fulfillment.
 
