@@ -1,0 +1,76 @@
+[
+  {
+    "id": "13e5e849-a7d4-4cab-927d-665c4330d21e",
+    "data": [
+      {
+        "text": "Branch hours for ",
+        "userDefined": false
+      },
+      {
+        "text": "Citibank",
+        "alias": "organization",
+        "meta": "@organization",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dd2cd9e-0fe2-4b84-8c4b-8ce0e5165e37",
+    "data": [
+      {
+        "text": "What is  ",
+        "userDefined": false
+      },
+      {
+        "text": "Wells Fargo",
+        "alias": "organization",
+        "meta": "@organization",
+        "userDefined": true
+      },
+      {
+        "text": " branch hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eab2db13-6288-449a-a348-6d392f4eed4d",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Chase",
+        "alias": "organization",
+        "meta": "@organization",
+        "userDefined": true
+      },
+      {
+        "text": " banks office hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efd54bdc-2142-4ed1-881f-e71049a2ba0e",
+    "data": [
+      {
+        "text": "What are your branch hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "48d1926c-bfd3-47d2-b702-93dd4b71473e",
+  "name": "banking.shelter_in_place",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We offer expanded services through the use of drive-up teller windows, or provide assistance at ATMs located outside of the branch office. Please visit our website and register for online banking or download our mobile app.  You can complete transactions such as depositing a check to your bank account or paying bills. In addition, you may want to consider signing up for direct deposit so that a paycheck or public benefits payment goes directly into your account."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

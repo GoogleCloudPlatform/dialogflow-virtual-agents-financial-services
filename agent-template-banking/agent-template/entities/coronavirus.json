@@ -1,0 +1,9 @@
+{
+  "id": "ce1ed67f-e031-47e4-830b-52435a027f0b",
+  "name": "coronavirus",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

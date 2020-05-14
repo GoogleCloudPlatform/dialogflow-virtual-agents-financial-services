@@ -1,0 +1,69 @@
+{
+  "id": "b7f67a9b-0c7e-45ba-9bf9-ebed739be037",
+  "name": "locations.open_branches",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "open-branches",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c44e0d37-607a-4003-bf97-122dc64f0b68",
+          "required": true,
+          "dataType": "@organization",
+          "name": "organization",
+          "value": "$organization",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which bank?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ba6e2b82-30b7-4306-9a0f-54b2e542ca7a",
+          "required": true,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me your address or city and state?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

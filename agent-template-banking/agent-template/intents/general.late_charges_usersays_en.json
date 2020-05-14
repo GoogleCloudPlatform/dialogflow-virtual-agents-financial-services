@@ -1,0 +1,50 @@
+[
+  {
+    "id": "604c05ce-327a-47a2-b7d0-96d4302bdd8a",
+    "data": [
+      {
+        "text": "What if I miss my loan payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c32a61e-2f95-44e9-a8ff-1d08d504119c",
+    "data": [
+      {
+        "text": "Will I be charged a late fee if I miss my payment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c95156ff-964d-42ba-a9b8-95712509a5ab",
+    "data": [
+      {
+        "text": "Will I be charged a late fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30e95dc5-1d94-4246-804f-72fcc3a4503b",
+    "data": [
+      {
+        "text": "Are you waiving late charges?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

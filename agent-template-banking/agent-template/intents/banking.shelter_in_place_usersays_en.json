@@ -1,0 +1,50 @@
+[
+  {
+    "id": "901b2b9d-5baa-4fad-9333-bc7b270e3eb3",
+    "data": [
+      {
+        "text": "How do I cash my check?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91a4701f-7a3e-4a70-bd04-bed6046e6672",
+    "data": [
+      {
+        "text": "How do I deposit my check?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "638a53a9-d1f4-4113-bfa8-6c856a5d62d4",
+    "data": [
+      {
+        "text": "How do I perform normal banking if I\u0027m on lockdown?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e258db1-6ef9-46fc-88f8-a6fd1b59fbc3",
+    "data": [
+      {
+        "text": "What is the best way to bank if I am sheltering in place?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

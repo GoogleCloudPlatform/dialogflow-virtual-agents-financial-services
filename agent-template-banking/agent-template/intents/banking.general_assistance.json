@@ -1,0 +1,44 @@
+{
+  "id": "7ad15aab-76bd-480c-ad57-5fadcd654c70",
+  "name": "banking.general_assistance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8f5ea6fb-51ca-4805-bf01-1e8869916c49",
+          "required": false,
+          "dataType": "@coronavirus",
+          "name": "coronavirus",
+          "value": "$coronavirus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We are here to help in any way we can.  First visit the CDC for the most updated information on COVID-19.  We offer a variety of mobile services such as banking online, transferring money via our mobile application, depositing checks from your home by phone or our app, and the ability to make purchases with our digital wallet.  These service should help you maintain social distancing.  We are also limiting our branch office hours and allowing drive through service, when available."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

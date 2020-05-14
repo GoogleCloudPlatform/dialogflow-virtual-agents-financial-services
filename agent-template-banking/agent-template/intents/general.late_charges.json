@@ -1,0 +1,31 @@
+{
+  "id": "6d845800-b2ce-4291-a3b5-c5f31f91568a",
+  "name": "general.late_charges",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We understand during this time that you may be seriously affected by COVID-19 and we may be able to assist you with your payment. We can provide some options depending on if it is a loan or credit card.  If its a loan, then we may allow you to skip loan payments with no adverse consequences for you, extend loan terms, or\nrestructure the loan.  If it is a credit card then we may be able to waive the late charge and possibly the interest for a set time period.  Please use our website to request more information."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "10aaae42-b699-4454-a621-c15df828b138",
+  "name": "mortgage.covid19_assistance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dc55dc49-6f42-475d-8b92-ed4846cb2bcc",
+          "required": false,
+          "dataType": "@coronavirus",
+          "name": "coronavirus",
+          "value": "$coronavirus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A new federal law, the Coronavirus Aid, Relief, and Economic Security (CARES) Act, puts in place two protections for homeowners with federally backed mortgages:\n\nFirst, your lender or loan servicer may not foreclose on you for 60 days after March 18, 2020. Specifically, the CARES Act prohibits lenders and servicers from beginning a judicial or non-judicial foreclosure against you, or from finalizing a foreclosure judgment or sale, during this period of time.\n\nSecond, if you experience financial hardship due to the coronavirus pandemic, you have a right to request a forbearance for up to 180 days. You also have the right to request an extension for up to another 180 days. You must contact your loan servicer to request this forbearance. There will be no additional fees, penalties or additional interest (beyond scheduled amounts) added to your account. You do not need to submit additional documentation to qualify other than your claim to have a pandemic-related financial hardship.  \n\nIf your loan is not federally backed then there may be other options available for your state and servicer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

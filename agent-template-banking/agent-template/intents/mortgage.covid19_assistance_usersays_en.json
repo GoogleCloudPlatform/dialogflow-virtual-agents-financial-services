@@ -1,0 +1,60 @@
+[
+  {
+    "id": "06d56d22-0e3f-469a-82bb-1f42606610c6",
+    "data": [
+      {
+        "text": "Covid",
+        "alias": "coronavirus",
+        "meta": "@coronavirus",
+        "userDefined": true
+      },
+      {
+        "text": " is impacting my ability to pay my mortgage.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "587ea2a4-6a73-45aa-a2ac-ad7ac3484632",
+    "data": [
+      {
+        "text": "COVID-19",
+        "alias": "coronavirus",
+        "meta": "@coronavirus",
+        "userDefined": true
+      },
+      {
+        "text": " is impacting my ability to pay my mortgage, how can you help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d284defc-acf7-4557-86d3-84b97336dc0a",
+    "data": [
+      {
+        "text": "How are we assisting mortgage customers affected by the ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "coronavirus",
+        "meta": "@coronavirus",
+        "userDefined": true
+      },
+      {
+        "text": " pandemic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

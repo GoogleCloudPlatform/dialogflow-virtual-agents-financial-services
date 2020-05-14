@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a108bd89-e1ef-4dc1-adf8-45ab0bdc6e65",
+    "data": [
+      {
+        "text": "Citibank",
+        "alias": "organization",
+        "meta": "@organization",
+        "userDefined": false
+      },
+      {
+        "text": " open branches",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40fedd09-51be-4114-8a56-76310bbbf764",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "Chase",
+        "alias": "organization",
+        "meta": "@organization",
+        "userDefined": false
+      },
+      {
+        "text": " bank branches are still open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2df652eb-cc36-4413-b4e2-cf5c4d453051",
+    "data": [
+      {
+        "text": "Which branches are still open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

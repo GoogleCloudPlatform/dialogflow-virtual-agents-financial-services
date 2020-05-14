@@ -1,0 +1,68 @@
+[
+  {
+    "id": "991e39ae-d8e4-4683-95f6-d3744cafe59e",
+    "data": [
+      {
+        "text": "Can you assist me during ",
+        "userDefined": false
+      },
+      {
+        "text": "cov19",
+        "alias": "coronavirus",
+        "meta": "@coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b46e5a7a-c870-4e3e-8165-24215d7fef71",
+    "data": [
+      {
+        "text": "How can you help me during ",
+        "userDefined": false
+      },
+      {
+        "text": "Covid-19",
+        "alias": "coronavirus",
+        "meta": "@coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9efb1e47-90ca-4eda-8a80-f8bf13e8642d",
+    "data": [
+      {
+        "text": "How are we assisting banking customers affected by the ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "coronavirus",
+        "meta": "@coronavirus",
+        "userDefined": true
+      },
+      {
+        "text": " pandemic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

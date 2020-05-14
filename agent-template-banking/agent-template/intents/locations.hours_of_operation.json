@@ -1,0 +1,69 @@
+{
+  "id": "4fc10bfe-c8a1-4e05-a953-1ca9c8409b84",
+  "name": "locations.hours_of_operation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "branch-hours",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "429c20c2-e47a-4777-97b9-2769d6487543",
+          "required": true,
+          "dataType": "@organization",
+          "name": "organization",
+          "value": "$organization",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which bank?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e5e23ccc-a070-4975-87e6-5cd6ad37c471",
+          "required": true,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your address?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

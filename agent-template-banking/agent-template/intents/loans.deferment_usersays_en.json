@@ -1,0 +1,78 @@
+[
+  {
+    "id": "538e142d-be3e-4203-b167-7cde30a026ac",
+    "data": [
+      {
+        "text": "covid19",
+        "alias": "coronavirus",
+        "meta": "@coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": " loan deferment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "744c90a2-6684-410d-834e-3d74b71fee90",
+    "data": [
+      {
+        "text": "loan deferral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f73425ff-5d1b-4092-8588-c900a7fbbf15",
+    "data": [
+      {
+        "text": "Put my loan in deferral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2b08d68-5b4c-42c6-8543-2bad451273bd",
+    "data": [
+      {
+        "text": "I need to defer my loan payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "856742bf-8c14-4d64-9ef8-baeaabd87022",
+    "data": [
+      {
+        "text": "Can I defer loan payments because of ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "coronavirus",
+        "meta": "@coronavirus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
