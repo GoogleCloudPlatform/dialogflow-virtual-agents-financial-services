@@ -1,0 +1,31 @@
+{
+  "id": "56dccf92-9ad4-4294-8d6b-490b2343e02b",
+  "name": "investment.stop_margin_call",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The only way to stop a margin call is to fulfill the requirements of the margin.  Your funds have gone below the required minimum so you need to sell assests to bring your account back into balance."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

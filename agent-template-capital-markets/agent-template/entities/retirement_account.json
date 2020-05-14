@@ -1,0 +1,9 @@
+{
+  "id": "a3cedf12-4abc-4239-b5ec-503707b3ab62",
+  "name": "retirement_account",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

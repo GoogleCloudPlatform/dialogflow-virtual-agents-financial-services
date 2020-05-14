@@ -1,0 +1,31 @@
+{
+  "id": "d56f8826-fa10-4ce2-bf10-395ddb423174",
+  "name": "investment.cover_margin_call",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can cover a margin call a couple of ways. First, you can sell your existing assets held in your margin account to cover the short fall. Second, If you don\u0027t have enough assets to sell to cover your loss, then you can deposit more money into your account to cover the balance requirements."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

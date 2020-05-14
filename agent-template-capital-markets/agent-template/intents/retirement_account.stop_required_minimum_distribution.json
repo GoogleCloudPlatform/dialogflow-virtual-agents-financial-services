@@ -1,0 +1,31 @@
+{
+  "id": "42160490-f41a-495b-a01a-0337b876b248",
+  "name": "retirement_account.stop_required_minimum_distribution",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can stop RMDs by filing a request to stop them on our website. However, If you do not take any distributions, or if the distributions are not large enough, you may have to pay a 50% excise tax on the amount not distributed as required.  You should consult a tax professional or financial planner before you make this decision."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

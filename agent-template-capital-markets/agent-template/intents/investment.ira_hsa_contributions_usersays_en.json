@@ -1,0 +1,120 @@
+[
+  {
+    "id": "bdc84fb0-50bc-4234-9021-88d10804f44b",
+    "data": [
+      {
+        "text": "last day to contribute to HSA for ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a8530f0-61d3-4eb1-b9e3-d2805c6220fa",
+    "data": [
+      {
+        "text": "last day to contribute to IRA for ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75aff4ff-1b1e-4e39-ae47-627157278de4",
+    "data": [
+      {
+        "text": "When is the last day I can contribute to my IRA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db1a7f50-cd05-4713-ae8b-d564d7faf37e",
+    "data": [
+      {
+        "text": "When is the last day I can contribute to my hsa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad057a6e-94c2-4a98-96f0-2c74a4ed8d05",
+    "data": [
+      {
+        "text": "deadline for hsa contributions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0384c28-6518-4321-abf1-461e03a28fe8",
+    "data": [
+      {
+        "text": "deadline for IRA contributions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69f42c05-2692-4e60-8fd0-53938f5eccc9",
+    "data": [
+      {
+        "text": "When is the deadline for IRA and hsa contributions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fc88384-c9d5-4325-9d26-ae3bc8f92038",
+    "data": [
+      {
+        "text": "When is the deadline for ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " IRA and health savings account (HSA) contributions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

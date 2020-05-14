@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c9a790ee-9ca7-4559-9df6-289ae4d788f4",
+    "data": [
+      {
+        "text": "I need to stop my auto RMD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2d22e68-617b-4103-a83d-33cb13b625f2",
+    "data": [
+      {
+        "text": "My RMD is automatic and I want to stop it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed9834c5-1316-4ee2-a99c-4b98fa71326b",
+    "data": [
+      {
+        "text": "I want to stop my RMD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8db6e56c-d0d2-41f4-b492-bdae51b1f654",
+    "data": [
+      {
+        "text": "How do I stop my automatic RMD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d71cb90-0fa3-4841-ae51-f8ed5d99b764",
+    "data": [
+      {
+        "text": "How do I stop my automatic required minimum distribution (RMD)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "8cd8d053-0133-4997-82a6-b6aaa05a0b11",
+    "data": [
+      {
+        "text": "How can I get a loan from my ",
+        "userDefined": false
+      },
+      {
+        "text": "403b",
+        "alias": "retirement_account",
+        "meta": "@retirement_account",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "deb13698-e4fc-4879-9735-ba9c55720829",
+    "data": [
+      {
+        "text": "I need a loan from my ",
+        "userDefined": false
+      },
+      {
+        "text": "IRA",
+        "alias": "retirement_account",
+        "meta": "@retirement_account",
+        "userDefined": true
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d50f762-03dc-490e-9f4e-72c7217e1c4f",
+    "data": [
+      {
+        "text": "Can I take a loan from my workplace savings plan (",
+        "userDefined": false
+      },
+      {
+        "text": "401k",
+        "alias": "retirement_account",
+        "meta": "@retirement_account",
+        "userDefined": false
+      },
+      {
+        "text": ") due to the pandemic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

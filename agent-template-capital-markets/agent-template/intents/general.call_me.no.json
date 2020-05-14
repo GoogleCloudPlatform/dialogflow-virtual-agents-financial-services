@@ -1,0 +1,44 @@
+{
+  "id": "ee82f13d-7721-4f29-99dc-d4cdd5f21359",
+  "name": "general.call_me.no",
+  "auto": true,
+  "contexts": [
+    "general_call_me"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "general_call_me",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "general_call_me_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

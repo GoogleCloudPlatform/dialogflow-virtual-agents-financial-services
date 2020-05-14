@@ -1,0 +1,44 @@
+{
+  "id": "bf519bd7-7ae2-4c9e-89f0-44e225683321",
+  "name": "retirement_account.early_withdrawal_from_account",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b664464f-fbcf-4874-871f-ec5fff528ecd",
+          "required": false,
+          "dataType": "@retirement_account",
+          "name": "retirement_account",
+          "value": "$retirement_account",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Due to the recent CARES Act, you may be eligible to request a distribution of up to $100,000 from January 1, 2020 through December 30, 2020 from your IRA and workplace savings plan (such as a 401(k), 403(b), etc). You may spread the income tax on your distribution over three years. The distribution will be exempt from the 10% early withdrawal penalty and you may repay it within 3 years. Your plan may also have other withdrawal options. Please login to your account to view the available options."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

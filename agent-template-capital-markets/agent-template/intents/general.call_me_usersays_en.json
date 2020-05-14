@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fa455398-b7f0-4760-b60f-a19c8c86e1e8",
+    "data": [
+      {
+        "text": "call me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a799d0ac-81fd-4f9c-80ab-613f937d82c6",
+    "data": [
+      {
+        "text": "I need someone to call me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fdafe85-9010-422f-ad09-d231323d5bda",
+    "data": [
+      {
+        "text": "Have a broker call me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "425818ed-ecc2-4676-bd1b-06cbddd000c8",
+    "data": [
+      {
+        "text": "Please call me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48912a78-901c-4b22-8a26-8f664446607a",
+    "data": [
+      {
+        "text": "Can a broker please call me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

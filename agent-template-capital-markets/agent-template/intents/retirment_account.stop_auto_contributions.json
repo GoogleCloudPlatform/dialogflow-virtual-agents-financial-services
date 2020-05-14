@@ -1,0 +1,44 @@
+{
+  "id": "5a54407e-8c51-4894-831f-f46531dd7aac",
+  "name": "retirment_account.stop_auto_contributions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1dcb9c5f-17cc-4f5a-9749-30ff222540f1",
+          "required": false,
+          "dataType": "@retirement_account",
+          "name": "retirement_account",
+          "value": "$retirement_account",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can change or delete an automatic contribution at any time. Please visit our automatic transfers and investments page and cancel your contribution."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

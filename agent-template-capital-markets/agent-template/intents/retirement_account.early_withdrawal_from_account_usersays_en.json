@@ -1,0 +1,76 @@
+[
+  {
+    "id": "8ab94a99-f24a-49cd-aa23-dcaff812ec38",
+    "data": [
+      {
+        "text": "Can I withdraw money from my ",
+        "userDefined": false
+      },
+      {
+        "text": "IRA",
+        "alias": "retirement_account",
+        "meta": "@retirement_account",
+        "userDefined": true
+      },
+      {
+        "text": " due to the pandemic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f61ddfc0-682d-47bd-8eeb-602f2fa3494c",
+    "data": [
+      {
+        "text": "I need to take an early payment from ",
+        "userDefined": false
+      },
+      {
+        "text": "403b",
+        "alias": "retirement_account",
+        "meta": "@retirement_account",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1573296-d14f-4ad3-8777-2afe059f6d49",
+    "data": [
+      {
+        "text": "Can I take a withdrawal from my ",
+        "userDefined": false
+      },
+      {
+        "text": "401K",
+        "alias": "retirement_account",
+        "meta": "@retirement_account",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dd1e050-4325-444c-a62c-503b7f245b20",
+    "data": [
+      {
+        "text": "Can I take a withdrawal from my workplace savings plan due to the pandemic?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

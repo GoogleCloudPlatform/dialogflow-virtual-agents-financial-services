@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12dfeda6-34c8-4c82-ad31-ff95bee13422",
+    "data": [
+      {
+        "text": "How to satisfy a margin call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06741f8a-16eb-470c-a8f8-12d335104acb",
+    "data": [
+      {
+        "text": "I need to cover my margin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "2dc68789-f9eb-40f7-9da9-20d794f45419",
+    "data": [
+      {
+        "text": "I need to cover my margin call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec318131-0917-440e-b4c3-5ed56f55dab3",
+    "data": [
+      {
+        "text": "cover a margin call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91001f36-317a-45e9-9fda-be0083a5ab65",
+    "data": [
+      {
+        "text": "How do I cover a margin call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

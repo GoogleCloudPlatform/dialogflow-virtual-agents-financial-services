@@ -1,0 +1,52 @@
+{
+  "id": "1826b9c0-c882-43ef-9db0-92977e268fd3",
+  "name": "general.call_me.verify_account",
+  "auto": true,
+  "contexts": [
+    "general_call_me_yes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "general_call_me_yes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "35dac036-48c8-4917-ac5d-ddd4ee4ebc53",
+          "required": false,
+          "dataType": "@account_number",
+          "name": "account_number",
+          "value": "$account_number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

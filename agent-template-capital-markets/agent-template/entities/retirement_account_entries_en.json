@@ -1,0 +1,59 @@
+[
+  {
+    "value": "401K",
+    "synonyms": [
+      "401K",
+      "401"
+    ]
+  },
+  {
+    "value": "403b",
+    "synonyms": [
+      "403b",
+      "403"
+    ]
+  },
+  {
+    "value": "IRA",
+    "synonyms": [
+      "IRA",
+      "ira"
+    ]
+  },
+  {
+    "value": "Roth",
+    "synonyms": [
+      "Roth",
+      "Roth IRA",
+      "RIRA"
+    ]
+  },
+  {
+    "value": "457b",
+    "synonyms": [
+      "457b",
+      "457"
+    ]
+  },
+  {
+    "value": "Simple IRA",
+    "synonyms": [
+      "Simple IRA",
+      "SIRA",
+      "Savings Incentive Match for Employees IRA"
+    ]
+  },
+  {
+    "value": "SEP IRA",
+    "synonyms": [
+      "SEP IRA",
+      "Simplified Employee Pension IRA"
+    ]
+  },
+  {
+    "value": "Roth 401K",
+    "synonyms": [
+      "Roth 401K"
+    ]
+  }
+]

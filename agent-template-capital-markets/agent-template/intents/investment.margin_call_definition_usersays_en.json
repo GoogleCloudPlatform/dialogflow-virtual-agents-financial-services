@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d7d06acf-a040-49f3-b7e8-b6d0b16711d6",
+    "data": [
+      {
+        "text": "Can you tell me what a margin call is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "710e084f-725c-43a8-9b78-e24bee6b1f8f",
+    "data": [
+      {
+        "text": "margin call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b664df12-6e63-45a1-8778-fe3dabc3a098",
+    "data": [
+      {
+        "text": "What is a margin call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

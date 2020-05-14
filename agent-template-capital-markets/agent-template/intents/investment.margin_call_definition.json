@@ -1,0 +1,31 @@
+{
+  "id": "9c498b69-1e34-47cc-973b-cf2b9e2008ae",
+  "name": "investment.margin_call_definition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "A margin call occurs when the value of an investor\u0027s margin account falls below the broker\u0027s required amount. A margin call is the broker\u0027s demand that an investor deposit additional money or securities so that the account is brought up to the minimum value, known as the maintenance margin."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

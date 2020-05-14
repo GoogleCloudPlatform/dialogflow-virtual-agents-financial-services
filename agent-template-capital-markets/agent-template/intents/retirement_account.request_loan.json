@@ -1,0 +1,44 @@
+{
+  "id": "4574833d-640c-4485-8c6f-52c09759cad2",
+  "name": "retirement_account.request_loan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a4175971-ec8c-4bed-85f4-10f042549b0f",
+          "required": false,
+          "dataType": "@retirement_account",
+          "name": "retirement_account",
+          "value": "$retirement_account",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "If your plan allows, you might be able to borrow from your workplace savings plan (such as 401(k), 403(b), etc). There might be limits based on regulations and your plan\u0027s rules.  Please login to your account to view your options."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
